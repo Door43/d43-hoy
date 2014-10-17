@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[hoy:home|Door43 (hoy)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-hoy|d43-hoy repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-hoy/archive/master.zip|d43-hoy.zip]]
+
+**Recent Changes**
+{{changes>ns = hoy}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/hoy|Ethnologue data]]
+
